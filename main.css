@@ -1,0 +1,15 @@
+h1 {
+    color: green; text-align: center;
+}
+
+h2 {
+    color: rgb(93, 210, 103); text-align: center;
+}
+
+a {
+    background-color: rgb(173, 240, 156);
+}
+
+footer {
+     text-align: center; background-color: rgb(93, 210, 103);
+}
